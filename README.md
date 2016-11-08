@@ -21,7 +21,7 @@ git checkout -b YOUR_BRANCH_NAME
 
 ## Task
 
-You can find all your tasks on `2016/tasks`
+You can find all your tasks on `2016/tasks` - read the [task guide](https://github.com/Arqu/CS160-2016/tree/2016/tasks).
 
 ## Expectations
 
