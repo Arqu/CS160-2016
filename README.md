@@ -19,9 +19,13 @@ cd /path/to/your/repository
 git checkout -b YOUR_BRANCH_NAME
 ```
 
-## Task
+## Tasks
 
 You can find all your tasks on `2016/tasks` - read the [task guide](https://github.com/Arqu/CS160-2016/tree/2016/tasks).
+
+## Challenges
+
+There will be weekly challenges which you can find on `2016/challenges`. Solving a challenge will bring you lots of hacker cred and also some perks we agree on in class.
 
 ## Expectations
 
