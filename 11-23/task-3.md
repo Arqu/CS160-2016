@@ -4,7 +4,7 @@
 
 On stdin you are given a string `s` of length 5. Your task is to show all the permutations
 of its letters by using for loops.
-
+```
 abcde
 bacde
 bcade
@@ -125,3 +125,4 @@ eadcb
 edacb
 edcab
 edcba
+```
