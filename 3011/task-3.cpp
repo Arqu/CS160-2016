@@ -3,10 +3,15 @@
 
 using namespace std;
 
-int main()
+void lyrics ()
 {
     cout << "Straight masterpieces" << endl;
     cout << "Stylin', while in" << endl;
     cout << "Livin' it up in the city" << endl;
+}
+
+int main()
+{
+    lyrics();
     return (0);
 }
