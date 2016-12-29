@@ -3,13 +3,13 @@
 using namespace std;
 
 
-double square(int x){
+double square(double x){
     return x*x;
 
 }
 
 int main(){
-    int n;
+    double n;
     cin >> n;
 
     cout << square(n) << endl;
